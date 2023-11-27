@@ -1,0 +1,18 @@
+{
+  "name": "e-imzo-integration",
+  "version": "0.0.2",
+  "description": "Easily integrate your application with the E-IMZO platform for Electronic Digital Signature (EDS) verification in compliance with the legislation of the Republic of Uzbekistan. This npm module provides a convenient interface for seamless integration with the E-IMZO platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-imzo",
+    "e-signature",
+    "uzbekistan-eds",
+    "integration-e-imzo",
+    "react-e-imzo"
+  ],
+  "author": "TheBetaCompany <info@thebetacompany.uz>(https://thebetacompany.uz)",
+  "license": "MIT"
+}
